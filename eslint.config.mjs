@@ -1,7 +1,5 @@
 import eslint from "@eslint/js";
 import tseslint from "typescript-eslint";
-import reactPlugin from "eslint-plugin-react";
-import reactHooksPlugin from "eslint-plugin-react-hooks";
 
 export default tseslint.config(
   eslint.configs.recommended,
@@ -24,10 +22,6 @@ export default tseslint.config(
   // React-specific config for packages/react and packages/next
   {
     files: ["packages/react/**/*.{ts,tsx}", "packages/next/**/*.{ts,tsx}"],
-    plugins: {
-      react: reactPlugin,
-      "react-hooks": reactHooksPlugin,
-    },
     languageOptions: {
       parserOptions: {
         ecmaFeatures: {
