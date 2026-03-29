@@ -5,7 +5,7 @@ Runtime JavaScript code generation from AST.
 ## Install
 
 ```bash
-npm install rugen
+npm install @tilyupo/rugen
 ```
 
 ## License
