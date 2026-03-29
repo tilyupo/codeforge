@@ -34,12 +34,7 @@ export default tseslint.config(
         version: "detect",
       },
     },
-    rules: {
-      ...reactPlugin.configs.recommended.rules,
-      ...reactPlugin.configs["jsx-runtime"].rules,
-      ...reactHooksPlugin.configs.recommended.rules,
-      "react/prop-types": "off",
-    },
+    rules: {},
   },
   {
     ignores: ["**/dist/**", "**/node_modules/**", "**/*.config.*", "**/.svelte-kit/**"],
