@@ -1,11 +1,11 @@
-# codeforge
+# valtra
 
 Runtime JavaScript code generation from AST.
 
 ## Install
 
 ```bash
-npm install codeforge
+npm install valtra
 ```
 
 ## License

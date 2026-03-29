@@ -1,17 +1,17 @@
 {
-  "name": "codeforge",
+  "name": "valtra",
   "version": "0.1.6",
   "packageManager": "pnpm@10.25.0",
   "description": "Runtime JavaScript codegen",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/tilyupo/codeforge#readme",
+  "homepage": "https://github.com/tilyupo/valtra#readme",
   "bugs": {
-    "url": "https://github.com/tilyupo/codeforge/issues"
+    "url": "https://github.com/tilyupo/valtra/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tilyupo/codeforge.git"
+    "url": "git+https://github.com/tilyupo/valtra.git"
   },
   "author": "Dmitry Tilyupo <tilyupo@gmail.com>",
   "files": [
