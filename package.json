@@ -1,6 +1,6 @@
 {
   "name": "codeforge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "packageManager": "pnpm@10.25.0",
   "description": "Runtime JavaScript codegen",
   "type": "module",
