@@ -1,17 +1,17 @@
 {
-  "name": "valtra",
+  "name": "rugen",
   "version": "0.1.7",
   "packageManager": "pnpm@10.25.0",
   "description": "Runtime JavaScript codegen",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/tilyupo/valtra#readme",
+  "homepage": "https://github.com/tilyupo/rugen#readme",
   "bugs": {
-    "url": "https://github.com/tilyupo/valtra/issues"
+    "url": "https://github.com/tilyupo/rugen/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tilyupo/valtra.git"
+    "url": "git+https://github.com/tilyupo/rugen.git"
   },
   "author": "Dmitry Tilyupo <tilyupo@gmail.com>",
   "files": [

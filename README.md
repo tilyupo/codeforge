@@ -1,11 +1,11 @@
-# valtra
+# rugen
 
 Runtime JavaScript code generation from AST.
 
 ## Install
 
 ```bash
-npm install valtra
+npm install rugen
 ```
 
 ## License
